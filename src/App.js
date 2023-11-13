@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("Simple Web");
+  useDocTitle("React Web");
 
   return (
     <>
