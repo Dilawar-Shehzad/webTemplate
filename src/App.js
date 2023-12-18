@@ -7,7 +7,7 @@ import {
   Routes,
   Route
 } from 'react-router-dom';
-// All pages
+// All pages for Investor 
 import Home from './pages/Home';
 import Contact from './pages/Contact';
 import DemoProduct from './pages/DemoProduct';
